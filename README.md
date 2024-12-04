@@ -1,7 +1,9 @@
 # AI-Chatbot-using-Langchain
 **AI-Chatbot-using-Langchain**
 
-## Features
+---
+
+## 🛠️ Features
 1. **AI Model and Persona Selection**
 
 - Choose between different AI models for optimal performance based on user preferences.
@@ -28,8 +30,10 @@
 
 - Handles any errors gracefully, providing clear feedback to the user.
 - Keeps sensitive data secure by loading API keys from environment variables.
+  
+---
 
-### Project Setup
+### 🚀 Project Setup
 
 #### 1. Clone the Repository
 ```bash
@@ -62,10 +66,20 @@ GROQ_API_KEY = your_api_key
 ```bash
 streamlit run app.py
 ```
+---
 
-## Usage
+## 🎥 Usage
 1. **Model & Persona Selection:** Choose an AI model and persona from the sidebar.
 2. **Memory Configuration:** Set how many previous messages the chatbot should remember.
 3. **Chat:** Type your messages and engage with the assistant in real time.
 4. **Clear Chat & New Topics:** Clear the chat history or start a new topic as needed.
 5. **View Stats:** Check the sidebar for conversation stats.
+   
+---
+
+## 📧 Contact
+
+### Feel free to reach out if you have any questions or suggestions:
+ - Author: Dhruv Tambekar
+ - GitHub: DhruvTambekar24
+ - LinkedIn: https://www.linkedin.com/in/dhruv-tambekar-190a1728a/
